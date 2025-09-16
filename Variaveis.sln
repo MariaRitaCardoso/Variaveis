@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36408.4 d17.14
+VisualStudioVersion = 17.14.36408.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variaveis", "Variaveis\Variaveis.csproj", "{DF7EE9C6-798B-4210-92B3-4102207F55D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertendoValores", "ConvertendoValores\ConvertendoValores.csproj", "{653ADFB5-C5EB-494C-8D48-F0F78F13CBFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade_01", "Atividade_01\Atividade_01.csproj", "{87D6D4F6-6DFF-4A5F-8A55-AA9576D60833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DF7EE9C6-798B-4210-92B3-4102207F55D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7EE9C6-798B-4210-92B3-4102207F55D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7EE9C6-798B-4210-92B3-4102207F55D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653ADFB5-C5EB-494C-8D48-F0F78F13CBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653ADFB5-C5EB-494C-8D48-F0F78F13CBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653ADFB5-C5EB-494C-8D48-F0F78F13CBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653ADFB5-C5EB-494C-8D48-F0F78F13CBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D6D4F6-6DFF-4A5F-8A55-AA9576D60833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D6D4F6-6DFF-4A5F-8A55-AA9576D60833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D6D4F6-6DFF-4A5F-8A55-AA9576D60833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D6D4F6-6DFF-4A5F-8A55-AA9576D60833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
